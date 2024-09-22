@@ -1,9 +1,12 @@
-# aliases
+# ls
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
+alias ltr='ls -ltr'
 
-alias lstree='tree -L 1'
-alias lstree2='tree -L 2'
-alias lstree3='tree -L 3'
-alias lstree4='tree -L 4'
+# tree ls
+alias lst='tree -L 1'
+alias lst2='tree -L 2'
+alias lst3='tree -L 3'
+alias lst4='tree -L 4'
+
