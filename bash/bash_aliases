@@ -10,3 +10,5 @@ alias lst2='tree -L 2'
 alias lst3='tree -L 3'
 alias lst4='tree -L 4'
 
+# ytree
+alias yt='ytree'
