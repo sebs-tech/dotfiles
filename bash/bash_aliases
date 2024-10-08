@@ -12,3 +12,6 @@ alias lst4='tree -L 4'
 
 # ytree
 alias yt='ytree'
+
+# test alias 
+alias seb='ls'
