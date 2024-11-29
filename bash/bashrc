@@ -110,3 +110,7 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+
+# LS_COLORS shared directories without background
+export LS_COLORS="ow=34"
