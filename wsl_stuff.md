@@ -24,3 +24,5 @@ generateHosts=false
 ```bash
 /mnt/d/WSL/home/ /home/seb/dev none bind 0 0
 ```
+## Create desktop shortcut
+C:\Windows\System32\wsl.exe -d <DistroName> -- bash -c "cd /home/seb/dev && exec bash"
