@@ -2,9 +2,9 @@
 
 ### for each WSL: 
 
-a. Registry Editor > DefaultUid ; set to Decimal 1000 
-b. snap install gh ; gh auth login ; follow instructions 
-c. source ~/.bashrc 
-d. Replace prompt hostname with wsl-name: 
+1. Registry Editor > DefaultUid ; set to Decimal 1000 
+2. snap install gh ; gh auth login ; follow instructions 
+3. source ~/.bashrc 
+4. Replace prompt hostname with wsl-name: 
   - vim ~/.bashrc
   - replace `mildred` with <distribution name>
