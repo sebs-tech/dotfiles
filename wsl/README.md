@@ -8,3 +8,4 @@
 4. Replace prompt hostname with wsl-name: (In the future, write a script to prompt the user for a name, or get it from wsl) 
   - vim ~/.bashrc
   - replace `mildred` with <distribution name>
+
