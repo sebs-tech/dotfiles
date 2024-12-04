@@ -1,5 +1,4 @@
-1. After creation of the wsl machines:
-
+##After creation of the wsl machines:
 ### for each WSL: 
 
 1. Registry Editor > DefaultUid ; set to Decimal 1000 
