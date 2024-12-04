@@ -2,7 +2,7 @@
 ### for each WSL: 
 
 1. Registry Editor > DefaultUid ; set to Decimal 1000 (user Seb)
-2. snap install gh ; gh auth login ; follow instructions
+2. snap install gh ;gh auth login ; follow instructions
 3. git clone https://github.com/sebs-tech/dotfiles.git
 4. ./install.sh
 5. source ~/.bashrc 
